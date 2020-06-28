@@ -1,0 +1,122 @@
+// this file was generated from Saw Bass split.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=10212 end=53759 sample=../Audio/Saw Bass split/Saw Bass split-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7740 end=49151 sample=../Audio/Saw Bass split/Saw Bass split-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12836 end=55295 sample=../Audio/Saw Bass split/Saw Bass split-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7147 end=49663 sample=../Audio/Saw Bass split/Saw Bass split-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8143 end=50687 sample=../Audio/Saw Bass split/Saw Bass split-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8450 end=50687 sample=../Audio/Saw Bass split/Saw Bass split-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7926 end=52223 sample=../Audio/Saw Bass split/Saw Bass split-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3137 end=44543 sample=../Audio/Saw Bass split/Saw Bass split-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8958 end=51711 sample=../Audio/Saw Bass split/Saw Bass split-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3802 end=46591 sample=../Audio/Saw Bass split/Saw Bass split-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2398 end=46079 sample=../Audio/Saw Bass split/Saw Bass split-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4016 end=46591 sample=../Audio/Saw Bass split/Saw Bass split-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=948 end=47615 sample=../Audio/Saw Bass split/Saw Bass split-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12038 end=53759 sample=../Audio/Saw Bass split/Saw Bass split-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5274 end=49151 sample=../Audio/Saw Bass split/Saw Bass split-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11732 end=54783 sample=../Audio/Saw Bass split/Saw Bass split-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5463 end=50175 sample=../Audio/Saw Bass split/Saw Bass split-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=13373 end=56319 sample=../Audio/Saw Bass split/Saw Bass split-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8327 end=52735 sample=../Audio/Saw Bass split/Saw Bass split-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3385 end=45567 sample=../Audio/Saw Bass split/Saw Bass split-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3856 end=47103 sample=../Audio/Saw Bass split/Saw Bass split-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5515 end=48127 sample=../Audio/Saw Bass split/Saw Bass split-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4373 end=47615 sample=../Audio/Saw Bass split/Saw Bass split-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=927 end=52223 sample=../Audio/Saw Bass split/Saw Bass split-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4246 end=54271 sample=../Audio/Saw Bass split/Saw Bass split-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11744 end=60415 sample=../Audio/Saw Bass split/Saw Bass split-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=18915 end=66559 sample=../Audio/Saw Bass split/Saw Bass split-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=13360 end=61951 sample=../Audio/Saw Bass split/Saw Bass split-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14537 end=63487 sample=../Audio/Saw Bass split/Saw Bass split-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=19333 end=68095 sample=../Audio/Saw Bass split/Saw Bass split-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6620 end=56319 sample=../Audio/Saw Bass split/Saw Bass split-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9938 end=59391 sample=../Audio/Saw Bass split/Saw Bass split-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12270 end=60415 sample=../Audio/Saw Bass split/Saw Bass split-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11432 end=60927 sample=../Audio/Saw Bass split/Saw Bass split-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6596 end=57343 sample=../Audio/Saw Bass split/Saw Bass split-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11730 end=59903 sample=../Audio/Saw Bass split/Saw Bass split-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6761 end=57855 sample=../Audio/Saw Bass split/Saw Bass split-96-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8245 end=57855 sample=../Audio/Saw Bass split/Saw Bass split-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7187 end=56319 sample=../Audio/Saw Bass split/Saw Bass split-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9686 end=59391 sample=../Audio/Saw Bass split/Saw Bass split-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4873 end=54783 sample=../Audio/Saw Bass split/Saw Bass split-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=733 end=55807 sample=../Audio/Saw Bass split/Saw Bass split-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12345 end=67071 sample=../Audio/Saw Bass split/Saw Bass split-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11781 end=61439 sample=../Audio/Saw Bass split/Saw Bass split-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8402 end=56831 sample=../Audio/Saw Bass split/Saw Bass split-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12097 end=61439 sample=../Audio/Saw Bass split/Saw Bass split-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8796 end=57855 sample=../Audio/Saw Bass split/Saw Bass split-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12820 end=61439 sample=../Audio/Saw Bass split/Saw Bass split-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6094 end=56319 sample=../Audio/Saw Bass split/Saw Bass split-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4520 end=53759 sample=../Audio/Saw Bass split/Saw Bass split-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14254 end=61439 sample=../Audio/Saw Bass split/Saw Bass split-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5944 end=53759 sample=../Audio/Saw Bass split/Saw Bass split-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9718 end=58879 sample=../Audio/Saw Bass split/Saw Bass split-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6411 end=53759 sample=../Audio/Saw Bass split/Saw Bass split-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9356 end=58879 sample=../Audio/Saw Bass split/Saw Bass split-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5703 end=55295 sample=../Audio/Saw Bass split/Saw Bass split-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11016 end=58367 sample=../Audio/Saw Bass split/Saw Bass split-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=18881 end=65535 sample=../Audio/Saw Bass split/Saw Bass split-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8615 end=55807 sample=../Audio/Saw Bass split/Saw Bass split-94-127.aif
+<group>lokey=95 hikey=127 pitch_keycenter=95 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3490 end=50175 sample=../Audio/Saw Bass split/Saw Bass split-95-127.aif

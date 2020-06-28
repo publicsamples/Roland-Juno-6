@@ -1,0 +1,185 @@
+// this file was generated from Pulse Bass.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=18841 end=77823 sample=../Audio/Pulse Bass/Pulse Bass-36-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=14597 end=143359 sample=../Audio/Pulse Bass/Pulse Bass-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=5595 end=93695 sample=../Audio/Pulse Bass/Pulse Bass-37-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13697 end=144383 sample=../Audio/Pulse Bass/Pulse Bass-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=7102 end=86527 sample=../Audio/Pulse Bass/Pulse Bass-38-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=14130 end=139775 sample=../Audio/Pulse Bass/Pulse Bass-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4641 end=65535 sample=../Audio/Pulse Bass/Pulse Bass-39-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13874 end=140799 sample=../Audio/Pulse Bass/Pulse Bass-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=10923 end=76287 sample=../Audio/Pulse Bass/Pulse Bass-40-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=5270 end=131583 sample=../Audio/Pulse Bass/Pulse Bass-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2702 end=75263 sample=../Audio/Pulse Bass/Pulse Bass-41-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=5267 end=129535 sample=../Audio/Pulse Bass/Pulse Bass-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4041 end=68607 sample=../Audio/Pulse Bass/Pulse Bass-42-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7314 end=128511 sample=../Audio/Pulse Bass/Pulse Bass-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3944 end=86015 sample=../Audio/Pulse Bass/Pulse Bass-43-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13799 end=135679 sample=../Audio/Pulse Bass/Pulse Bass-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1770 end=77311 sample=../Audio/Pulse Bass/Pulse Bass-44-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8431 end=124415 sample=../Audio/Pulse Bass/Pulse Bass-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6016 end=67583 sample=../Audio/Pulse Bass/Pulse Bass-45-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13411 end=131071 sample=../Audio/Pulse Bass/Pulse Bass-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=82 end=51199 sample=../Audio/Pulse Bass/Pulse Bass-46-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=15520 end=139775 sample=../Audio/Pulse Bass/Pulse Bass-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2490 end=73215 sample=../Audio/Pulse Bass/Pulse Bass-47-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=9861 end=123903 sample=../Audio/Pulse Bass/Pulse Bass-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1936 end=48127 sample=../Audio/Pulse Bass/Pulse Bass-48-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=15739 end=125951 sample=../Audio/Pulse Bass/Pulse Bass-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=127 end=47103 sample=../Audio/Pulse Bass/Pulse Bass-49-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=12029 end=126975 sample=../Audio/Pulse Bass/Pulse Bass-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1217 end=47103 sample=../Audio/Pulse Bass/Pulse Bass-50-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=17220 end=123903 sample=../Audio/Pulse Bass/Pulse Bass-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4214 end=49151 sample=../Audio/Pulse Bass/Pulse Bass-51-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=6409 end=111615 sample=../Audio/Pulse Bass/Pulse Bass-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1514 end=48639 sample=../Audio/Pulse Bass/Pulse Bass-52-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=6204 end=113663 sample=../Audio/Pulse Bass/Pulse Bass-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1126 end=46591 sample=../Audio/Pulse Bass/Pulse Bass-53-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13143 end=114175 sample=../Audio/Pulse Bass/Pulse Bass-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1950 end=46079 sample=../Audio/Pulse Bass/Pulse Bass-54-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=11534 end=112127 sample=../Audio/Pulse Bass/Pulse Bass-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6199 end=57343 sample=../Audio/Pulse Bass/Pulse Bass-55-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=9672 end=107007 sample=../Audio/Pulse Bass/Pulse Bass-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2804 end=53247 sample=../Audio/Pulse Bass/Pulse Bass-56-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=14196 end=109055 sample=../Audio/Pulse Bass/Pulse Bass-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2418 end=41983 sample=../Audio/Pulse Bass/Pulse Bass-57-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=14080 end=104447 sample=../Audio/Pulse Bass/Pulse Bass-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11335 end=75263 sample=../Audio/Pulse Bass/Pulse Bass-58-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13677 end=106495 sample=../Audio/Pulse Bass/Pulse Bass-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4685 end=43519 sample=../Audio/Pulse Bass/Pulse Bass-59-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13705 end=103423 sample=../Audio/Pulse Bass/Pulse Bass-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=10485 end=62463 sample=../Audio/Pulse Bass/Pulse Bass-60-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7012 end=97279 sample=../Audio/Pulse Bass/Pulse Bass-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1223 end=42495 sample=../Audio/Pulse Bass/Pulse Bass-61-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7049 end=92671 sample=../Audio/Pulse Bass/Pulse Bass-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=375 end=37887 sample=../Audio/Pulse Bass/Pulse Bass-62-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8511 end=93183 sample=../Audio/Pulse Bass/Pulse Bass-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11072 end=51199 sample=../Audio/Pulse Bass/Pulse Bass-63-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=15536 end=95231 sample=../Audio/Pulse Bass/Pulse Bass-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3770 end=40959 sample=../Audio/Pulse Bass/Pulse Bass-64-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=11431 end=95231 sample=../Audio/Pulse Bass/Pulse Bass-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=1855 end=36863 sample=../Audio/Pulse Bass/Pulse Bass-65-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=12432 end=87551 sample=../Audio/Pulse Bass/Pulse Bass-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=7250 end=40959 sample=../Audio/Pulse Bass/Pulse Bass-66-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13393 end=93695 sample=../Audio/Pulse Bass/Pulse Bass-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3659 end=38399 sample=../Audio/Pulse Bass/Pulse Bass-67-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=4986 end=77311 sample=../Audio/Pulse Bass/Pulse Bass-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=8 end=33791 sample=../Audio/Pulse Bass/Pulse Bass-68-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=9196 end=82943 sample=../Audio/Pulse Bass/Pulse Bass-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=5288 end=37375 sample=../Audio/Pulse Bass/Pulse Bass-69-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7027 end=77311 sample=../Audio/Pulse Bass/Pulse Bass-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=12364 end=45567 sample=../Audio/Pulse Bass/Pulse Bass-70-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=9560 end=82431 sample=../Audio/Pulse Bass/Pulse Bass-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2379 end=35839 sample=../Audio/Pulse Bass/Pulse Bass-71-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7547 end=74239 sample=../Audio/Pulse Bass/Pulse Bass-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3602 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-72-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=11280 end=77311 sample=../Audio/Pulse Bass/Pulse Bass-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2169 end=34303 sample=../Audio/Pulse Bass/Pulse Bass-73-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13840 end=79871 sample=../Audio/Pulse Bass/Pulse Bass-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=5220 end=36863 sample=../Audio/Pulse Bass/Pulse Bass-74-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13184 end=77311 sample=../Audio/Pulse Bass/Pulse Bass-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2190 end=33279 sample=../Audio/Pulse Bass/Pulse Bass-75-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=11703 end=72191 sample=../Audio/Pulse Bass/Pulse Bass-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4107 end=35327 sample=../Audio/Pulse Bass/Pulse Bass-76-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=9034 end=78335 sample=../Audio/Pulse Bass/Pulse Bass-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=12914 end=43007 sample=../Audio/Pulse Bass/Pulse Bass-77-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=10217 end=71167 sample=../Audio/Pulse Bass/Pulse Bass-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6353 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-78-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=7991 end=68607 sample=../Audio/Pulse Bass/Pulse Bass-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6330 end=36863 sample=../Audio/Pulse Bass/Pulse Bass-79-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8576 end=67583 sample=../Audio/Pulse Bass/Pulse Bass-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6158 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-80-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=5743 end=63999 sample=../Audio/Pulse Bass/Pulse Bass-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3401 end=33279 sample=../Audio/Pulse Bass/Pulse Bass-81-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=3728 end=56831 sample=../Audio/Pulse Bass/Pulse Bass-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6442 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-82-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=6511 end=63487 sample=../Audio/Pulse Bass/Pulse Bass-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11714 end=42495 sample=../Audio/Pulse Bass/Pulse Bass-83-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=6503 end=61439 sample=../Audio/Pulse Bass/Pulse Bass-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6574 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-84-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=4074 end=58367 sample=../Audio/Pulse Bass/Pulse Bass-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=493 end=29695 sample=../Audio/Pulse Bass/Pulse Bass-85-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=12355 end=63999 sample=../Audio/Pulse Bass/Pulse Bass-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=5972 end=35327 sample=../Audio/Pulse Bass/Pulse Bass-86-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13477 end=59903 sample=../Audio/Pulse Bass/Pulse Bass-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6634 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-87-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8596 end=58879 sample=../Audio/Pulse Bass/Pulse Bass-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6564 end=35839 sample=../Audio/Pulse Bass/Pulse Bass-88-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8323 end=61439 sample=../Audio/Pulse Bass/Pulse Bass-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11616 end=41471 sample=../Audio/Pulse Bass/Pulse Bass-89-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=933 end=49663 sample=../Audio/Pulse Bass/Pulse Bass-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=6569 end=36351 sample=../Audio/Pulse Bass/Pulse Bass-90-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=13024 end=61439 sample=../Audio/Pulse Bass/Pulse Bass-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=3535 end=35327 sample=../Audio/Pulse Bass/Pulse Bass-91-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=5579 end=51199 sample=../Audio/Pulse Bass/Pulse Bass-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4615 end=33791 sample=../Audio/Pulse Bass/Pulse Bass-92-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=4990 end=48127 sample=../Audio/Pulse Bass/Pulse Bass-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=2124 end=30719 sample=../Audio/Pulse Bass/Pulse Bass-93-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=815 end=44543 sample=../Audio/Pulse Bass/Pulse Bass-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11902 end=45055 sample=../Audio/Pulse Bass/Pulse Bass-94-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=8575 end=57855 sample=../Audio/Pulse Bass/Pulse Bass-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=11147 end=52735 sample=../Audio/Pulse Bass/Pulse Bass-95-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=14544 end=55807 sample=../Audio/Pulse Bass/Pulse Bass-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=000 hivel=064 amp_velcurve_064=1 offset=4286 end=32767 sample=../Audio/Pulse Bass/Pulse Bass-96-64.aif
+	<region> lovel=065 hivel=127 amp_velcurve_127=1 offset=29385 end=76799 sample=../Audio/Pulse Bass/Pulse Bass-96-127.aif

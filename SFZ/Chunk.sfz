@@ -1,0 +1,32 @@
+// this file was generated from Chunk.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=37 pitch_keycenter=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=992538 loop_mode=loop_sustain loop_start=85969 loop_end=688080 sample=../Audio/Chunk/(2012104 152322)/Chunk-36-127-QZT5.aif
+<group>lokey=38 hikey=41 pitch_keycenter=40 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1048034 loop_mode=loop_sustain loop_start=173063 loop_end=755718 sample=../Audio/Chunk/(2012104 152322)/Chunk-40-127-O1S6.aif
+<group>lokey=42 hikey=45 pitch_keycenter=44 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1024732 loop_mode=loop_sustain loop_start=173365 loop_end=763189 sample=../Audio/Chunk/(2012104 152322)/Chunk-44-127-ADRI.aif
+<group>lokey=46 hikey=49 pitch_keycenter=48 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=967976 loop_mode=loop_sustain loop_start=332821 loop_end=508953 sample=../Audio/Chunk/(2012104 152322)/Chunk-48-127-O27P.aif
+<group>lokey=50 hikey=53 pitch_keycenter=52 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=989390 loop_mode=loop_sustain loop_start=288553 loop_end=653095 sample=../Audio/Chunk/(2012104 152322)/Chunk-52-127-2IZM.aif
+<group>lokey=54 hikey=57 pitch_keycenter=56 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1022734 loop_mode=loop_sustain loop_start=205856 loop_end=707616 sample=../Audio/Chunk/(2012104 152322)/Chunk-56-127-FEHB.aif
+<group>lokey=58 hikey=61 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1036923 loop_mode=loop_sustain loop_start=219512 loop_end=574548 sample=../Audio/Chunk/(2012104 152322)/Chunk-60-127-AC25.aif
+<group>lokey=62 hikey=65 pitch_keycenter=64 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1010268 loop_mode=loop_sustain loop_start=352887 loop_end=795258 sample=../Audio/Chunk/(2012104 152322)/Chunk-64-127-LJ8Y.aif
+<group>lokey=66 hikey=69 pitch_keycenter=68 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1016114 loop_mode=loop_sustain loop_start=272149 loop_end=449963 sample=../Audio/Chunk/(2012104 152322)/Chunk-68-127-JJQY.aif
+<group>lokey=70 hikey=73 pitch_keycenter=72 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1001505 loop_mode=loop_sustain loop_start=175549 loop_end=374651 sample=../Audio/Chunk/(2012104 152322)/Chunk-72-127-XLTE.aif
+<group>lokey=74 hikey=77 pitch_keycenter=76 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1026311 loop_mode=loop_sustain loop_start=600358 loop_end=788873 sample=../Audio/Chunk/(2012104 152322)/Chunk-76-127-FE30.aif
+<group>lokey=78 hikey=81 pitch_keycenter=80 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1014187 loop_mode=loop_sustain loop_start=496328 loop_end=677112 sample=../Audio/Chunk/(2012104 152322)/Chunk-80-127-AHO0.aif
+<group>lokey=82 hikey=89 pitch_keycenter=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=983961 loop_mode=loop_sustain loop_start=344157 loop_end=534413 sample=../Audio/Chunk/(2012104 152322)/Chunk-84-127-SRA2.aif
+<group>lokey=90 hikey=93 pitch_keycenter=92 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1072538 loop_mode=loop_sustain loop_start=490365 loop_end=662597 sample=../Audio/Chunk/(2012104 152322)/Chunk-92-127-HA19.aif
+<group>lokey=94 hikey=127 pitch_keycenter=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=1014442 loop_mode=loop_sustain loop_start=489742 loop_end=650581 sample=../Audio/Chunk/(2012104 152322)/Chunk-96-127-QZ4U.aif

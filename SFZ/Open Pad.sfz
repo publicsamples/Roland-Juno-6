@@ -1,0 +1,124 @@
+// this file was generated from Open Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24048 loop_end=138701 sample=../Audio/Open Pad/(201283 201830)/Open Pad-36-127-URIO.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=70202 loop_end=299330 sample=../Audio/Open Pad/(201283 201830)/Open Pad-37-127-OLX2.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=88621 loop_end=260437 sample=../Audio/Open Pad/(201283 201830)/Open Pad-38-127-76RD.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=78302 loop_end=364092 sample=../Audio/Open Pad/(201283 201830)/Open Pad-39-127-F5B5.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=53245 loop_end=337983 sample=../Audio/Open Pad/(201283 201830)/Open Pad-40-127-2DBR.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=112778 loop_end=342075 sample=../Audio/Open Pad/(201283 201830)/Open Pad-41-127-RFSV.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16644 loop_end=362722 sample=../Audio/Open Pad/(201283 201830)/Open Pad-42-127-GUW8.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=68837 loop_end=298287 sample=../Audio/Open Pad/(201283 201830)/Open Pad-43-127-YUZN.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=55573 loop_end=170207 sample=../Audio/Open Pad/(201283 201830)/Open Pad-44-127-5QMX.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=142137 loop_end=256749 sample=../Audio/Open Pad/(201283 201830)/Open Pad-45-127-4QR6.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=77172 loop_end=363913 sample=../Audio/Open Pad/(201283 201830)/Open Pad-46-127-DHQX.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=19387 loop_end=248624 sample=../Audio/Open Pad/(201283 201830)/Open Pad-47-127-9CL5.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155104 loop_end=269692 sample=../Audio/Open Pad/(201283 201830)/Open Pad-48-127-XWZ1.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=25306 loop_end=139803 sample=../Audio/Open Pad/(201283 201830)/Open Pad-49-127-FM88.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=105192 loop_end=220465 sample=../Audio/Open Pad/(201283 201830)/Open Pad-50-127-4ZKH.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80688 loop_end=195721 sample=../Audio/Open Pad/(201283 201830)/Open Pad-51-127-KBYQ.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=45607 loop_end=160597 sample=../Audio/Open Pad/(201283 201830)/Open Pad-52-127-YB0V.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=195579 loop_end=310161 sample=../Audio/Open Pad/(201283 201830)/Open Pad-53-127-F6OL.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163424 loop_end=334946 sample=../Audio/Open Pad/(201283 201830)/Open Pad-54-127-4AWZ.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187552 loop_end=359773 sample=../Audio/Open Pad/(201283 201830)/Open Pad-55-127-N1ZS.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=222793 loop_end=337371 sample=../Audio/Open Pad/(201283 201830)/Open Pad-56-127-5DAZ.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=243441 loop_end=357999 sample=../Audio/Open Pad/(201283 201830)/Open Pad-57-127-A9IX.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165688 loop_end=280264 sample=../Audio/Open Pad/(201283 201830)/Open Pad-58-127-JYC4.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143263 loop_end=257483 sample=../Audio/Open Pad/(201283 201830)/Open Pad-59-127-C0ZY.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=237340 loop_end=351880 sample=../Audio/Open Pad/(201283 201830)/Open Pad-60-127-H3F5.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161689 loop_end=276136 sample=../Audio/Open Pad/(201283 201830)/Open Pad-61-127-RVQ0.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=15597 loop_end=130219 sample=../Audio/Open Pad/(201283 201830)/Open Pad-62-127-86K1.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=52060 loop_end=166199 sample=../Audio/Open Pad/(201283 201830)/Open Pad-63-127-R8IM.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133820 loop_end=248232 sample=../Audio/Open Pad/(201283 201830)/Open Pad-64-127-OXV7.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=122176 loop_end=236469 sample=../Audio/Open Pad/(201283 201830)/Open Pad-65-127-Z44S.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=119097 loop_end=233654 sample=../Audio/Open Pad/(201283 201830)/Open Pad-66-127-4BHU.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=127687 loop_end=299637 sample=../Audio/Open Pad/(201283 201830)/Open Pad-67-127-0DXE.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158688 loop_end=330713 sample=../Audio/Open Pad/(201283 201830)/Open Pad-68-127-6Z4N.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=189545 loop_end=361525 sample=../Audio/Open Pad/(201283 201830)/Open Pad-69-127-UXN6.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=72655 loop_end=187219 sample=../Audio/Open Pad/(201283 201830)/Open Pad-70-127-IUIL.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=106085 loop_end=220471 sample=../Audio/Open Pad/(201283 201830)/Open Pad-71-127-BN6J.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=187844 loop_end=302187 sample=../Audio/Open Pad/(201283 201830)/Open Pad-72-127-BT3P.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=192439 loop_end=364535 sample=../Audio/Open Pad/(201283 201830)/Open Pad-73-127-VH9B.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=232780 loop_end=347366 sample=../Audio/Open Pad/(201283 201830)/Open Pad-74-127-Z9A6.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203865 loop_end=318529 sample=../Audio/Open Pad/(201283 201830)/Open Pad-75-127-6EKT.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151679 loop_end=361578 sample=../Audio/Open Pad/(201283 201830)/Open Pad-76-127-S7Y0.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=63092 loop_end=177612 sample=../Audio/Open Pad/(201283 201830)/Open Pad-77-127-WJXD.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=236485 loop_end=351136 sample=../Audio/Open Pad/(201283 201830)/Open Pad-78-127-QZI5.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=101232 loop_end=355166 sample=../Audio/Open Pad/(201283 201830)/Open Pad-79-127-QDDZ.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163928 loop_end=335905 sample=../Audio/Open Pad/(201283 201830)/Open Pad-80-127-NQN2.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=191898 loop_end=277856 sample=../Audio/Open Pad/(201283 201830)/Open Pad-81-127-NJF8.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=49629 loop_end=308906 sample=../Audio/Open Pad/(201283 201830)/Open Pad-82-127-KKDW.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=233016 loop_end=315698 sample=../Audio/Open Pad/(201283 201830)/Open Pad-83-127-INE2.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=42939 loop_end=352874 sample=../Audio/Open Pad/(201283 201830)/Open Pad-84-127-I8Q7.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=202660 loop_end=339928 sample=../Audio/Open Pad/(201283 201830)/Open Pad-85-127-8PQS.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92609 loop_end=171256 sample=../Audio/Open Pad/(201283 201830)/Open Pad-86-127-I1NK.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157395 loop_end=251755 sample=../Audio/Open Pad/(201283 201830)/Open Pad-87-127-ECTV.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=33417 loop_end=185954 sample=../Audio/Open Pad/(201283 201830)/Open Pad-88-127-CU3I.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181182 loop_end=334806 sample=../Audio/Open Pad/(201283 201830)/Open Pad-89-127-QU2D.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147169 loop_end=352902 sample=../Audio/Open Pad/(201283 201830)/Open Pad-90-127-IERD.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=79107 loop_end=292133 sample=../Audio/Open Pad/(201283 201830)/Open Pad-91-127-QD0R.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=84842 loop_end=184405 sample=../Audio/Open Pad/(201283 201830)/Open Pad-92-127-8G1X.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=123716 loop_end=209784 sample=../Audio/Open Pad/(201283 201830)/Open Pad-93-127-K9OU.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=39801 loop_end=353125 sample=../Audio/Open Pad/(201283 201830)/Open Pad-94-127-4TSB.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=24722 loop_end=355400 sample=../Audio/Open Pad/(201283 201830)/Open Pad-95-127-BTAF.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=190387 loop_end=292833 sample=../Audio/Open Pad/(201283 201830)/Open Pad-96-127-V4LI.aif

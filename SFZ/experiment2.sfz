@@ -1,0 +1,19 @@
+// this file was generated from experiment2.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=0 hikey=127 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=939 loop_end=73723 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-32-1M81.aif
+	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=67824 loop_end=159645 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-40-ZJR4.aif
+	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=26732 loop_end=112993 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-48-61SB.aif
+	<region> lovel=049 hivel=056 amp_velcurve_056=1 loop_mode=loop_sustain loop_start=285780 loop_end=359742 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-56-GTQY.aif
+	<region> lovel=057 hivel=064 amp_velcurve_064=1 loop_mode=loop_sustain loop_start=287651 loop_end=361613 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-64-VOGT.aif
+	<region> lovel=065 hivel=071 amp_velcurve_071=1 loop_mode=loop_sustain loop_start=202794 loop_end=276924 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-71-A1ZG.aif
+	<region> lovel=072 hivel=079 amp_velcurve_079=1 loop_mode=loop_sustain loop_start=133017 loop_end=205126 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-79-OK5X.aif
+	<region> lovel=080 hivel=087 amp_velcurve_087=1 loop_mode=loop_sustain loop_start=288206 loop_end=362674 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-87-U437.aif
+	<region> lovel=088 hivel=095 amp_velcurve_095=1 loop_mode=loop_sustain loop_start=269990 loop_end=345469 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-95-FNYY.aif
+	<region> lovel=096 hivel=103 amp_velcurve_103=1 loop_mode=loop_sustain loop_start=169717 loop_end=241995 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-103-PWVV.aif
+	<region> lovel=104 hivel=111 amp_velcurve_111=1 loop_mode=loop_sustain loop_start=173227 loop_end=249212 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-111-FQE7.aif
+	<region> lovel=112 hivel=119 amp_velcurve_119=1 loop_mode=loop_sustain loop_start=225089 loop_end=297031 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-119-QE5Y.aif
+	<region> lovel=120 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=21388 loop_end=97375 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-127-PU8I.aif
+	<region> lovel=017 hivel=024 amp_velcurve_024=1 loop_mode=loop_sustain loop_start=220 loop_end=72497 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-24-91ZR.aif
+	<region> lovel=009 hivel=016 amp_velcurve_016=1 loop_mode=loop_sustain loop_start=17462 loop_end=92435 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-16-J2FI.aif
+	<region> lovel=001 hivel=008 amp_velcurve_008=1 loop_mode=loop_sustain loop_start=34777 loop_end=118511 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-8-RGLY.aif

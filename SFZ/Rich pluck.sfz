@@ -1,0 +1,124 @@
+// this file was generated from Rich pluck.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12539 end=178687 sample=../Audio/Rich pluck/C1Rich pluck-36-127.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=15753 end=106495 sample=../Audio/Rich pluck/C#1Rich pluck-37-127.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=18394 end=104959 sample=../Audio/Rich pluck/D1Rich pluck-38-127.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14225 end=98303 sample=../Audio/Rich pluck/D#1Rich pluck-39-127.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=18573 end=108031 sample=../Audio/Rich pluck/E1Rich pluck-40-127.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11981 end=99327 sample=../Audio/Rich pluck/F1Rich pluck-41-127.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=19204 end=122367 sample=../Audio/Rich pluck/F#1Rich pluck-42-127.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6104 end=110079 sample=../Audio/Rich pluck/G1Rich pluck-43-127.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9118 end=112127 sample=../Audio/Rich pluck/G#1Rich pluck-44-127.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=24 end=98815 sample=../Audio/Rich pluck/A1Rich pluck-45-127.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3783 end=111615 sample=../Audio/Rich pluck/A#1Rich pluck-46-127.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=15582 end=117759 sample=../Audio/Rich pluck/B1Rich pluck-47-127.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11810 end=116735 sample=../Audio/Rich pluck/C2Rich pluck-48-127.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=16046 end=120319 sample=../Audio/Rich pluck/C#2Rich pluck-49-127.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9962 end=112127 sample=../Audio/Rich pluck/D2Rich pluck-50-127.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7709 end=109567 sample=../Audio/Rich pluck/D#2Rich pluck-51-127.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6254 end=117247 sample=../Audio/Rich pluck/E2Rich pluck-52-127.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6711 end=115199 sample=../Audio/Rich pluck/F2Rich pluck-53-127.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8138 end=115199 sample=../Audio/Rich pluck/F#2Rich pluck-54-127.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=17812 end=125439 sample=../Audio/Rich pluck/G2Rich pluck-55-127.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11344 end=113663 sample=../Audio/Rich pluck/G#2Rich pluck-56-127.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9101 end=110079 sample=../Audio/Rich pluck/A2Rich pluck-57-127.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=13201 end=120831 sample=../Audio/Rich pluck/A#2Rich pluck-58-127.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9448 end=121343 sample=../Audio/Rich pluck/B2Rich pluck-59-127.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11522 end=117247 sample=../Audio/Rich pluck/C3Rich pluck-60-127.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7103 end=114175 sample=../Audio/Rich pluck/C#3Rich pluck-61-127.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9163 end=111615 sample=../Audio/Rich pluck/D3Rich pluck-62-127.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3734 end=101887 sample=../Audio/Rich pluck/D#3Rich pluck-63-127.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14627 end=121855 sample=../Audio/Rich pluck/E3Rich pluck-64-127.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6605 end=110079 sample=../Audio/Rich pluck/F3Rich pluck-65-127.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12913 end=120319 sample=../Audio/Rich pluck/F#3Rich pluck-66-127.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9432 end=119295 sample=../Audio/Rich pluck/G3Rich pluck-67-127.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3685 end=105983 sample=../Audio/Rich pluck/G#3Rich pluck-68-127.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12402 end=112639 sample=../Audio/Rich pluck/A3Rich pluck-69-127.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1947 end=109567 sample=../Audio/Rich pluck/A#3Rich pluck-70-127.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14645 end=117247 sample=../Audio/Rich pluck/B3Rich pluck-71-127.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14404 end=116223 sample=../Audio/Rich pluck/C4Rich pluck-72-127.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9409 end=110079 sample=../Audio/Rich pluck/C#4Rich pluck-73-127.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12862 end=113663 sample=../Audio/Rich pluck/D4Rich pluck-74-127.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=320 end=96767 sample=../Audio/Rich pluck/D#4Rich pluck-75-127.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8703 end=109567 sample=../Audio/Rich pluck/E4Rich pluck-76-127.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=17187 end=117247 sample=../Audio/Rich pluck/F4Rich pluck-77-127.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8833 end=109567 sample=../Audio/Rich pluck/F#4Rich pluck-78-127.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14814 end=114687 sample=../Audio/Rich pluck/G4Rich pluck-79-127.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=15885 end=116735 sample=../Audio/Rich pluck/G#4Rich pluck-80-127.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12320 end=110079 sample=../Audio/Rich pluck/A4Rich pluck-81-127.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8941 end=114175 sample=../Audio/Rich pluck/A#4Rich pluck-82-127.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6644 end=105471 sample=../Audio/Rich pluck/B4Rich pluck-83-127.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=13541 end=117759 sample=../Audio/Rich pluck/C5Rich pluck-84-127.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3900 end=110591 sample=../Audio/Rich pluck/C#5Rich pluck-85-127.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=13155 end=113151 sample=../Audio/Rich pluck/D5Rich pluck-86-127.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=10225 end=108543 sample=../Audio/Rich pluck/D#5Rich pluck-87-127.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4811 end=109055 sample=../Audio/Rich pluck/E5Rich pluck-88-127.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4956 end=107007 sample=../Audio/Rich pluck/F5Rich pluck-89-127.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11155 end=115199 sample=../Audio/Rich pluck/F#5Rich pluck-90-127.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2947 end=107007 sample=../Audio/Rich pluck/G5Rich pluck-91-127.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=10765 end=113151 sample=../Audio/Rich pluck/G#5Rich pluck-92-127.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11367 end=150527 sample=../Audio/Rich pluck/A5Rich pluck-93-127.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14309 end=113151 sample=../Audio/Rich pluck/A#5Rich pluck-94-127.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12824 end=109055 sample=../Audio/Rich pluck/B5Rich pluck-95-127.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12544 end=127487 sample=../Audio/Rich pluck/C6Rich pluck-96-127.aif
