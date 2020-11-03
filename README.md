@@ -47,15 +47,4 @@ Hey you! Yes, you with the sampler! This project really needs your help!
 
 #
 
-
-# Donate
-
-[![patreon](https://www.modularsamples.com/sites/default/files/inline-images/wordmark_on_navy_1.jpg)](https://www.patreon.com/modularsamples)  
-
-# Disks
-
-[![ua](https://www.modularsamples.com/sites/default/files/inline-images/usb-stick-vector-clipart_0.png)](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-
-[The entire collection on a portable drive.](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
-
-[Prices start at £40](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
+[Patreon](https://www.patreon.com/modularsamples) - [Buy an SSD](https://www.etsy.com/uk/listing/757499822/modularsamplescom-library-ssd)
