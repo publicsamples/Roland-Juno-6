@@ -1,6 +1,6 @@
 // this file was generated from experiment2.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=127 pitch_keycenter=60 pitch_keytrack=1
+<group>lokey=0 hikey=127 pitch_keycenter=60 
 	<region> lovel=025 hivel=032 amp_velcurve_032=1 loop_mode=loop_sustain loop_start=939 loop_end=73723 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-32-1M81.aif
 	<region> lovel=033 hivel=040 amp_velcurve_040=1 loop_mode=loop_sustain loop_start=67824 loop_end=159645 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-40-ZJR4.aif
 	<region> lovel=041 hivel=048 amp_velcurve_048=1 loop_mode=loop_sustain loop_start=26732 loop_end=112993 sample=../Audio/experiment/(2012104 155132)/C3experiment-60-48-61SB.aif

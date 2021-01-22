@@ -1,124 +1,124 @@
 // this file was generated from Wow Singer.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65215 loop_end=363274 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-36-127-QAG3.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=117674 loop_end=235400 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-37-127-L673.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263684 loop_end=353782 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-38-127-0FIL.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238645 loop_end=328785 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-39-127-FDR7.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=245037 loop_end=362755 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-40-127-RWBV.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178739 loop_end=359021 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-41-127-EY9Q.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=262373 loop_end=352455 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-42-127-PS7Z.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=152724 loop_end=360553 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-43-127-EL9M.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258729 loop_end=348725 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-44-127-919C.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=143921 loop_end=234075 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-45-127-OI44.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235285 loop_end=325308 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-46-127-NXA7.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210971 loop_end=301299 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-47-127-F014.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=110693 loop_end=200665 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-48-127-PJYH.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182081 loop_end=272077 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-49-127-CLCW.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=134258 loop_end=224303 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-50-127-KSEA.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265499 loop_end=355587 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-51-127-N8Y9.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=145460 loop_end=235572 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-52-127-9XLB.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200898 loop_end=290988 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-53-127-R9MF.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157533 loop_end=247571 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-54-127-4B10.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133402 loop_end=223550 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-55-127-0C79.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139375 loop_end=229542 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-56-127-CQ2F.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=214073 loop_end=304187 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-57-127-EAXE.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266442 loop_end=356432 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-58-127-2IYZ.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178294 loop_end=268412 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-59-127-M7VD.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=186261 loop_end=276368 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-60-127-LV8Q.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163747 loop_end=253866 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-61-127-LJPX.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261672 loop_end=351983 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-62-127-QZGW.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247703 loop_end=337902 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-63-127-ATAF.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272405 loop_end=362484 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-64-127-WVV6.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131177 loop_end=221240 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-65-127-R61K.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272328 loop_end=362464 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-66-127-N2XL.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272313 loop_end=362437 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-67-127-E7AU.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=130989 loop_end=221024 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-68-127-6XQU.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=254398 loop_end=344484 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-69-127-ERLG.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265227 loop_end=355398 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-70-127-0NGD.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=149184 loop_end=239293 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-71-127-G438.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264780 loop_end=354781 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-72-127-GRY5.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=235153 loop_end=325249 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-73-127-JPC6.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173916 loop_end=264122 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-74-127-BHBL.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272604 loop_end=362701 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-75-127-GKXB.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=265132 loop_end=355177 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-76-127-1DK5.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271810 loop_end=361856 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-77-127-VSKD.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263114 loop_end=353234 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-78-127-XORG.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263134 loop_end=353184 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-79-127-NJ7L.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261085 loop_end=351102 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-80-127-RRID.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=213027 loop_end=303139 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-81-127-GF0Q.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271433 loop_end=361535 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-82-127-XNWH.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270362 loop_end=360493 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-83-127-DU2M.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=252913 loop_end=342934 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-84-127-ZVDU.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=269250 loop_end=359327 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-85-127-NFM7.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=272202 loop_end=362352 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-86-127-7QTF.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157884 loop_end=248237 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-87-127-XMVT.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=148977 loop_end=239069 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-88-127-K65D.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264164 loop_end=354215 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-89-127-KHFE.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=173119 loop_end=263179 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-90-127-ESKS.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=181162 loop_end=271272 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-91-127-5DT6.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268202 loop_end=358326 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-92-127-4RXT.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264144 loop_end=354287 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-93-127-6Y5N.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=264184 loop_end=354290 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-94-127-MN3Q.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=266229 loop_end=356343 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-95-127-MYCW.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163807 loop_end=253939 sample=../Audio/Wow Singer/(201288 153517)/Wow Singer-96-127-8WGI.aif

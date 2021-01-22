@@ -1,122 +1,122 @@
 // this file was generated from PW Pluck.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+<group>lokey=0 hikey=36 pitch_keycenter=36 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14013 end=89087 sample=../Audio/PW Pluck/PW Pluck-36-127.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7764 end=77311 sample=../Audio/PW Pluck/PW Pluck-37-127.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3590 end=75263 sample=../Audio/PW Pluck/PW Pluck-38-127.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12413 end=86015 sample=../Audio/PW Pluck/PW Pluck-39-127.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11141 end=82943 sample=../Audio/PW Pluck/PW Pluck-40-127.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11932 end=84991 sample=../Audio/PW Pluck/PW Pluck-41-127.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11253 end=87551 sample=../Audio/PW Pluck/PW Pluck-42-127.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7351 end=78335 sample=../Audio/PW Pluck/PW Pluck-43-127.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3062 end=75775 sample=../Audio/PW Pluck/PW Pluck-44-127.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5557 end=77311 sample=../Audio/PW Pluck/PW Pluck-45-127.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4777 end=77311 sample=../Audio/PW Pluck/PW Pluck-46-127.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9210 end=82431 sample=../Audio/PW Pluck/PW Pluck-47-127.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6911 end=81919 sample=../Audio/PW Pluck/PW Pluck-48-127.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11610 end=82943 sample=../Audio/PW Pluck/PW Pluck-49-127.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5342 end=78847 sample=../Audio/PW Pluck/PW Pluck-50-127.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=10605 end=82943 sample=../Audio/PW Pluck/PW Pluck-51-127.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1649 end=74239 sample=../Audio/PW Pluck/PW Pluck-52-127.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8023 end=81919 sample=../Audio/PW Pluck/PW Pluck-53-127.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7178 end=80383 sample=../Audio/PW Pluck/PW Pluck-54-127.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3068 end=72191 sample=../Audio/PW Pluck/PW Pluck-55-127.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2258 end=72703 sample=../Audio/PW Pluck/PW Pluck-56-127.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=1153 end=72191 sample=../Audio/PW Pluck/PW Pluck-57-127.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3186 end=73727 sample=../Audio/PW Pluck/PW Pluck-58-127.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3797 end=75775 sample=../Audio/PW Pluck/PW Pluck-59-127.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=14147 end=88063 sample=../Audio/PW Pluck/PW Pluck-60-127.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12104 end=80383 sample=../Audio/PW Pluck/PW Pluck-61-127.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8795 end=79871 sample=../Audio/PW Pluck/PW Pluck-62-127.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3779 end=75263 sample=../Audio/PW Pluck/PW Pluck-63-127.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9375 end=80383 sample=../Audio/PW Pluck/PW Pluck-64-127.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5831 end=77823 sample=../Audio/PW Pluck/PW Pluck-65-127.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=7108 end=79359 sample=../Audio/PW Pluck/PW Pluck-66-127.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=11363 end=77311 sample=../Audio/PW Pluck/PW Pluck-67-127.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6518 end=75263 sample=../Audio/PW Pluck/PW Pluck-68-127.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4318 end=71679 sample=../Audio/PW Pluck/PW Pluck-69-127.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3692 end=73215 sample=../Audio/PW Pluck/PW Pluck-70-127.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=8882 end=78335 sample=../Audio/PW Pluck/PW Pluck-71-127.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=12571 end=83455 sample=../Audio/PW Pluck/PW Pluck-72-127.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=9648 end=75775 sample=../Audio/PW Pluck/PW Pluck-73-127.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5343 end=72703 sample=../Audio/PW Pluck/PW Pluck-74-127.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4227 end=71167 sample=../Audio/PW Pluck/PW Pluck-75-127.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6169 end=73727 sample=../Audio/PW Pluck/PW Pluck-76-127.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6274 end=75263 sample=../Audio/PW Pluck/PW Pluck-77-127.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5330 end=74751 sample=../Audio/PW Pluck/PW Pluck-78-127.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3234 end=66559 sample=../Audio/PW Pluck/PW Pluck-79-127.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3934 end=72191 sample=../Audio/PW Pluck/PW Pluck-96-127.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2102 end=68607 sample=../Audio/PW Pluck/PW Pluck-81-127.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2176 end=66559 sample=../Audio/PW Pluck/PW Pluck-82-127.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4683 end=74751 sample=../Audio/PW Pluck/PW Pluck-83-127.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=3673 end=70655 sample=../Audio/PW Pluck/PW Pluck-84-127.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4333 end=67583 sample=../Audio/PW Pluck/PW Pluck-85-127.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6450 end=73215 sample=../Audio/PW Pluck/PW Pluck-86-127.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=5881 end=73727 sample=../Audio/PW Pluck/PW Pluck-87-127.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4322 end=66047 sample=../Audio/PW Pluck/PW Pluck-88-127.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4337 end=67583 sample=../Audio/PW Pluck/PW Pluck-89-127.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6140 end=69631 sample=../Audio/PW Pluck/PW Pluck-90-127.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=4735 end=66047 sample=../Audio/PW Pluck/PW Pluck-91-127.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=6226 end=65535 sample=../Audio/PW Pluck/PW Pluck-92-127.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2900 end=64511 sample=../Audio/PW Pluck/PW Pluck-93-127.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=2649 end=66047 sample=../Audio/PW Pluck/PW Pluck-94-127.aif
-<group>lokey=95 hikey=127 pitch_keycenter=95 pitch_keytrack=1
+<group>lokey=95 hikey=127 pitch_keycenter=95 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 offset=81 end=66559 sample=../Audio/PW Pluck/PW Pluck-95-127.aif

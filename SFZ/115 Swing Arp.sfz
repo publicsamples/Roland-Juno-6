@@ -1,122 +1,122 @@
 // this file was generated from 115 Swing Arp.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80708 loop_end=218678 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-36-127-DOH0.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4601 loop_end=350002 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-37-127-FV7Q.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=165792 loop_end=303867 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-38-127-SZ9D.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=838 loop_end=345908 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-39-127-W5XD.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16206 loop_end=361331 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-40-127-P9GF.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=246330 loop_end=338361 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-41-127-Q8YD.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34626 loop_end=333662 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-42-127-O4K2.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=218687 loop_end=310714 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-43-127-OZSS.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16139 loop_end=315390 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-44-127-WZAB.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=7122 loop_end=352042 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-45-127-3UR4.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4517 loop_end=350172 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-46-127-M6IB.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16177 loop_end=361478 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-47-127-AZQ4.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4550 loop_end=349636 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-48-127-TD0K.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16067 loop_end=108449 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-49-127-4MNO.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4838 loop_end=349923 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-50-127-56XS.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=16230 loop_end=361315 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-51-127-KW4T.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=6971 loop_end=352056 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-52-127-G2LK.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=80566 loop_end=172719 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-53-127-VLKY.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=103 loop_end=345178 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-54-127-8HZG.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4788 loop_end=349873 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-55-127-HAE8.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4668 loop_end=349967 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-56-127-XOWD.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4568 loop_end=349653 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-57-127-9LTJ.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=4900 loop_end=349831 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-58-127-3NJY.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241639 loop_end=333755 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-59-127-3CFA.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=50779 loop_end=303872 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-60-127-XV0I.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223143 loop_end=315344 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-61-127-B2Q9.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34669 loop_end=126712 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-62-127-8FY0.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131057 loop_end=223200 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-63-127-U6B9.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211866 loop_end=303820 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-64-127-775L.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=223209 loop_end=315385 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-65-127-EINH.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131049 loop_end=223210 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-66-127-425R.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=126638 loop_end=218645 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-67-127-EYKG.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=45936 loop_end=138011 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-68-127-OZLM.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34569 loop_end=126640 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-69-127-DXD6.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=23108 loop_end=115033 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-70-127-68Q4.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=34589 loop_end=126558 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-71-127-H13Y.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=211723 loop_end=303797 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-72-127-HYVQ.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131067 loop_end=223199 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-73-127-6RXQ.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241639 loop_end=333718 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-74-127-5IZK.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270253 loop_end=362394 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-75-127-DPG8.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166790 loop_end=258986 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-76-127-W9QU.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=157581 loop_end=249626 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-77-127-OSTJ.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120813 loop_end=212793 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-78-127-N69E.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=128981 loop_end=220825 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-79-127-5HSG.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=82845 loop_end=174962 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-80-127-WQVM.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=203724 loop_end=295733 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-81-127-USU0.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=65479 loop_end=157659 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-82-127-8OY8.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166907 loop_end=258861 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-83-127-2Y9K.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=92016 loop_end=184310 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-84-127-NW77.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=36821 loop_end=128874 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-85-127-7T6B.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166944 loop_end=259110 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-86-127-KNCZ.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=120784 loop_end=212886 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-87-127-HYWL.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=63472 loop_end=155512 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-88-127-8BA2.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=17313 loop_end=109304 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-89-127-TZ23.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=258817 loop_end=350863 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-90-127-HPZ7.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249695 loop_end=341805 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-91-127-9H80.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=55272 loop_end=147303 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-92-127-OYSW.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=111584 loop_end=203637 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-93-127-V8AB.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=241628 loop_end=333765 sample=../Audio/115 Swing Arp/(201288 165446)/115 Swing Arp-94-127-36AG.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=001 hivel=127 amp_velcurve_127=1

@@ -1,122 +1,122 @@
 // this file was generated from LFO Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group>lokey=0 hikey=36 pitch_keycenter=36 pitch_keytrack=1
+<group>lokey=0 hikey=36 pitch_keycenter=36 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511512 loop_mode=loop_sustain loop_start=104267 loop_end=339939 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-36-127-ERQY.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=494696 loop_mode=loop_sustain loop_start=30642 loop_end=265823 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-37-127-X5HH.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=450213 loop_mode=loop_sustain loop_start=18828 loop_end=254679 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-38-127-JY0M.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=487019 loop_mode=loop_sustain loop_start=68207 loop_end=303359 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-39-127-5J9C.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517538 loop_mode=loop_sustain loop_start=70307 loop_end=305693 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-40-127-5NC9.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=506580 loop_mode=loop_sustain loop_start=121394 loop_end=356212 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-41-127-RXJB.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470706 loop_mode=loop_sustain loop_start=128736 loop_end=364249 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-42-127-GKYR.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=507225 loop_mode=loop_sustain loop_start=91896 loop_end=327278 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-43-127-2CVX.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=503373 loop_mode=loop_sustain loop_start=73563 loop_end=308908 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-44-127-THZ0.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=509634 loop_mode=loop_sustain loop_start=124466 loop_end=359479 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-45-127-0GJ4.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474827 loop_mode=loop_sustain loop_start=118461 loop_end=353603 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-46-127-NVGI.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474150 loop_mode=loop_sustain loop_start=128948 loop_end=364166 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-47-127-UZTM.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=469663 loop_mode=loop_sustain loop_start=76112 loop_end=311326 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-48-127-1ODD.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461036 loop_mode=loop_sustain loop_start=87896 loop_end=322962 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-49-127-MQVK.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=501622 loop_mode=loop_sustain loop_start=41270 loop_end=309560 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-50-127-O3XH.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476450 loop_mode=loop_sustain loop_start=118520 loop_end=353535 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-51-127-N062.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=496014 loop_mode=loop_sustain loop_start=64047 loop_end=332320 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-52-127-G3TP.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=463305 loop_mode=loop_sustain loop_start=48358 loop_end=316754 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-53-127-O9JP.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=516236 loop_mode=loop_sustain loop_start=38866 loop_end=307039 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-54-127-1SK2.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=475138 loop_mode=loop_sustain loop_start=77936 loop_end=346385 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-55-127-QNWL.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=476791 loop_mode=loop_sustain loop_start=63067 loop_end=331328 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-56-127-3RWG.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=483035 loop_mode=loop_sustain loop_start=49413 loop_end=317707 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-57-127-WPZ7.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473989 loop_mode=loop_sustain loop_start=28293 loop_end=296571 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-58-127-C7HA.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=443006 loop_mode=loop_sustain loop_start=92095 loop_end=360388 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-59-127-8DXX.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465757 loop_mode=loop_sustain loop_start=31936 loop_end=300239 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-96-127-YP9R.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=451214 loop_mode=loop_sustain loop_start=36448 loop_end=304777 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-61-127-X0VZ.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474356 loop_mode=loop_sustain loop_start=89740 loop_end=358066 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-62-127-B4TF.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456364 loop_mode=loop_sustain loop_start=85694 loop_end=354039 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-63-127-J6A2.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461734 loop_mode=loop_sustain loop_start=26232 loop_end=294543 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-64-127-HGVA.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461421 loop_mode=loop_sustain loop_start=74335 loop_end=342775 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-65-127-KAL5.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456047 loop_mode=loop_sustain loop_start=28472 loop_end=296938 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-66-127-NPBC.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449026 loop_mode=loop_sustain loop_start=95110 loop_end=363488 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-67-127-SZ6Y.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=491996 loop_mode=loop_sustain loop_start=75203 loop_end=343487 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-68-127-9AMF.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461529 loop_mode=loop_sustain loop_start=86148 loop_end=354453 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-69-127-EN6K.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456757 loop_mode=loop_sustain loop_start=24266 loop_end=292616 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-70-127-B983.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=457884 loop_mode=loop_sustain loop_start=37581 loop_end=305938 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-71-127-S3Y5.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=453769 loop_mode=loop_sustain loop_start=95516 loop_end=363981 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-72-127-CSA2.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=481051 loop_mode=loop_sustain loop_start=65692 loop_end=354455 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-73-127-IFBT.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=463229 loop_mode=loop_sustain loop_start=131360 loop_end=345155 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-74-127-ZK2T.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466206 loop_mode=loop_sustain loop_start=35345 loop_end=303601 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-75-127-15V6.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=455041 loop_mode=loop_sustain loop_start=38197 loop_end=306680 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-76-127-149G.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=468598 loop_mode=loop_sustain loop_start=59071 loop_end=327524 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-77-127-8U88.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=489303 loop_mode=loop_sustain loop_start=42405 loop_end=310821 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-78-127-5B98.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=453064 loop_mode=loop_sustain loop_start=90597 loop_end=359036 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-79-127-HK5A.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=455457 loop_mode=loop_sustain loop_start=37253 loop_end=305543 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-80-127-LVLE.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470074 loop_mode=loop_sustain loop_start=70806 loop_end=339192 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-81-127-8879.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=451414 loop_mode=loop_sustain loop_start=20809 loop_end=289203 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-82-127-JUXW.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=432332 loop_mode=loop_sustain loop_start=148300 loop_end=222912 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-83-127-SMR7.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461968 loop_mode=loop_sustain loop_start=49758 loop_end=318189 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-84-127-1FUD.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=448245 loop_mode=loop_sustain loop_start=234267 loop_end=341723 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-85-127-X58K.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=498382 loop_mode=loop_sustain loop_start=92844 loop_end=361222 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-86-127-SPZ9.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=463147 loop_mode=loop_sustain loop_start=68365 loop_end=336724 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-87-127-H4CE.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=454493 loop_mode=loop_sustain loop_start=164518 loop_end=270888 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-88-127-9GD7.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461520 loop_mode=loop_sustain loop_start=52573 loop_end=320940 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-89-127-JVUS.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461077 loop_mode=loop_sustain loop_start=195890 loop_end=335032 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-90-127-J7PT.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=447231 loop_mode=loop_sustain loop_start=57939 loop_end=326354 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-91-127-RMQA.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472265 loop_mode=loop_sustain loop_start=34106 loop_end=130578 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-92-127-R21Z.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=450988 loop_mode=loop_sustain loop_start=214178 loop_end=310537 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-93-127-7A1F.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=520595 loop_mode=loop_sustain loop_start=50468 loop_end=318837 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-94-127-BCGK.aif
-<group>lokey=95 hikey=127 pitch_keycenter=95 pitch_keytrack=1
+<group>lokey=95 hikey=127 pitch_keycenter=95 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=450338 loop_mode=loop_sustain loop_start=30520 loop_end=362294 sample=../Audio/LFO Pad/(2012104 113047)/LFO Pad-95-127-PFZV.aif

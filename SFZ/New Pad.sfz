@@ -1,124 +1,124 @@
 // this file was generated from New Pad.exs using vonred's exs2sfz.py. Trickster goddess incoming.
 
-<group> key=36 pitch_keytrack=1
+<group> key=36 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=524021 loop_mode=loop_sustain loop_start=239219 loop_end=361074 sample=../Audio/New Pad/(2012104 105819)/New Pad-36-127-I584.aif
-<group> key=37 pitch_keytrack=1
+<group> key=37 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474106 loop_mode=loop_sustain loop_start=64071 loop_end=252523 sample=../Audio/New Pad/(2012104 105819)/New Pad-37-127-WX3J.aif
-<group> key=38 pitch_keytrack=1
+<group> key=38 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=511570 loop_mode=loop_sustain loop_start=100507 loop_end=327827 sample=../Audio/New Pad/(2012104 105819)/New Pad-38-127-QK8S.aif
-<group> key=39 pitch_keytrack=1
+<group> key=39 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=484493 loop_mode=loop_sustain loop_start=89392 loop_end=344356 sample=../Audio/New Pad/(2012104 105819)/New Pad-39-127-KWJ8.aif
-<group> key=40 pitch_keytrack=1
+<group> key=40 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=455084 loop_mode=loop_sustain loop_start=70916 loop_end=353463 sample=../Audio/New Pad/(2012104 105819)/New Pad-40-127-QBQS.aif
-<group> key=41 pitch_keytrack=1
+<group> key=41 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=458408 loop_mode=loop_sustain loop_start=206677 loop_end=300967 sample=../Audio/New Pad/(2012104 105819)/New Pad-41-127-L51C.aif
-<group> key=42 pitch_keytrack=1
+<group> key=42 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=478573 loop_mode=loop_sustain loop_start=161009 loop_end=255739 sample=../Audio/New Pad/(2012104 105819)/New Pad-42-127-G7ES.aif
-<group> key=43 pitch_keytrack=1
+<group> key=43 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465267 loop_mode=loop_sustain loop_start=188036 loop_end=348805 sample=../Audio/New Pad/(2012104 105819)/New Pad-43-127-2JG6.aif
-<group> key=44 pitch_keytrack=1
+<group> key=44 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465269 loop_mode=loop_sustain loop_start=204684 loop_end=298868 sample=../Audio/New Pad/(2012104 105819)/New Pad-44-127-0TKA.aif
-<group> key=45 pitch_keytrack=1
+<group> key=45 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456081 loop_mode=loop_sustain loop_start=219097 loop_end=313224 sample=../Audio/New Pad/(2012104 105819)/New Pad-45-127-2NVY.aif
-<group> key=46 pitch_keytrack=1
+<group> key=46 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=457877 loop_mode=loop_sustain loop_start=118524 loop_end=212694 sample=../Audio/New Pad/(2012104 105819)/New Pad-46-127-G8PB.aif
-<group> key=47 pitch_keytrack=1
+<group> key=47 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=463428 loop_mode=loop_sustain loop_start=208466 loop_end=302729 sample=../Audio/New Pad/(2012104 105819)/New Pad-47-127-88NY.aif
-<group> key=48 pitch_keytrack=1
+<group> key=48 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449453 loop_mode=loop_sustain loop_start=268484 loop_end=362531 sample=../Audio/New Pad/(2012104 105819)/New Pad-48-127-GQAW.aif
-<group> key=49 pitch_keytrack=1
+<group> key=49 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=464487 loop_mode=loop_sustain loop_start=122742 loop_end=216922 sample=../Audio/New Pad/(2012104 105819)/New Pad-49-127-VIQC.aif
-<group> key=50 pitch_keytrack=1
+<group> key=50 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466066 loop_mode=loop_sustain loop_start=151346 loop_end=245662 sample=../Audio/New Pad/(2012104 105819)/New Pad-50-127-03O2.aif
-<group> key=51 pitch_keytrack=1
+<group> key=51 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461056 loop_mode=loop_sustain loop_start=123866 loop_end=218007 sample=../Audio/New Pad/(2012104 105819)/New Pad-51-127-HONB.aif
-<group> key=52 pitch_keytrack=1
+<group> key=52 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=480666 loop_mode=loop_sustain loop_start=80643 loop_end=174865 sample=../Audio/New Pad/(2012104 105819)/New Pad-52-127-4IQG.aif
-<group> key=53 pitch_keytrack=1
+<group> key=53 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=472244 loop_mode=loop_sustain loop_start=169910 loop_end=264152 sample=../Audio/New Pad/(2012104 105819)/New Pad-53-127-J9VE.aif
-<group> key=54 pitch_keytrack=1
+<group> key=54 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465161 loop_mode=loop_sustain loop_start=194495 loop_end=288712 sample=../Audio/New Pad/(2012104 105819)/New Pad-54-127-218N.aif
-<group> key=55 pitch_keytrack=1
+<group> key=55 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=452962 loop_mode=loop_sustain loop_start=220311 loop_end=314424 sample=../Audio/New Pad/(2012104 105819)/New Pad-55-127-N466.aif
-<group> key=56 pitch_keytrack=1
+<group> key=56 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=452973 loop_mode=loop_sustain loop_start=254544 loop_end=348902 sample=../Audio/New Pad/(2012104 105819)/New Pad-56-127-H6FJ.aif
-<group> key=57 pitch_keytrack=1
+<group> key=57 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=468364 loop_mode=loop_sustain loop_start=260013 loop_end=354100 sample=../Audio/New Pad/(2012104 105819)/New Pad-57-127-7JJ1.aif
-<group> key=58 pitch_keytrack=1
+<group> key=58 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456604 loop_mode=loop_sustain loop_start=267288 loop_end=361617 sample=../Audio/New Pad/(2012104 105819)/New Pad-58-127-499M.aif
-<group> key=59 pitch_keytrack=1
+<group> key=59 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466638 loop_mode=loop_sustain loop_start=243616 loop_end=337668 sample=../Audio/New Pad/(2012104 105819)/New Pad-59-127-Y7KI.aif
-<group> key=60 pitch_keytrack=1
+<group> key=60 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=471398 loop_mode=loop_sustain loop_start=237629 loop_end=331808 sample=../Audio/New Pad/(2012104 105819)/New Pad-60-127-K9BX.aif
-<group> key=61 pitch_keytrack=1
+<group> key=61 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=448488 loop_mode=loop_sustain loop_start=199720 loop_end=293864 sample=../Audio/New Pad/(2012104 105819)/New Pad-61-127-97MN.aif
-<group> key=62 pitch_keytrack=1
+<group> key=62 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465175 loop_mode=loop_sustain loop_start=93092 loop_end=186924 sample=../Audio/New Pad/(2012104 105819)/New Pad-62-127-YI5U.aif
-<group> key=63 pitch_keytrack=1
+<group> key=63 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=458468 loop_mode=loop_sustain loop_start=230953 loop_end=325483 sample=../Audio/New Pad/(2012104 105819)/New Pad-63-127-032H.aif
-<group> key=64 pitch_keytrack=1
+<group> key=64 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=448824 loop_mode=loop_sustain loop_start=84559 loop_end=178882 sample=../Audio/New Pad/(2012104 105819)/New Pad-64-127-02KD.aif
-<group> key=65 pitch_keytrack=1
+<group> key=65 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449189 loop_mode=loop_sustain loop_start=97917 loop_end=192134 sample=../Audio/New Pad/(2012104 105819)/New Pad-65-127-ODGD.aif
-<group> key=66 pitch_keytrack=1
+<group> key=66 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=456352 loop_mode=loop_sustain loop_start=269238 loop_end=363435 sample=../Audio/New Pad/(2012104 105819)/New Pad-66-127-NJRJ.aif
-<group> key=67 pitch_keytrack=1
+<group> key=67 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=467600 loop_mode=loop_sustain loop_start=247653 loop_end=341746 sample=../Audio/New Pad/(2012104 105819)/New Pad-67-127-Q204.aif
-<group> key=68 pitch_keytrack=1
+<group> key=68 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=461265 loop_mode=loop_sustain loop_start=82022 loop_end=176246 sample=../Audio/New Pad/(2012104 105819)/New Pad-68-127-5XKI.aif
-<group> key=69 pitch_keytrack=1
+<group> key=69 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=452570 loop_mode=loop_sustain loop_start=224321 loop_end=318584 sample=../Audio/New Pad/(2012104 105819)/New Pad-69-127-H77J.aif
-<group> key=70 pitch_keytrack=1
+<group> key=70 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465215 loop_mode=loop_sustain loop_start=268174 loop_end=362402 sample=../Audio/New Pad/(2012104 105819)/New Pad-70-127-LMZ8.aif
-<group> key=71 pitch_keytrack=1
+<group> key=71 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=462500 loop_mode=loop_sustain loop_start=140222 loop_end=234450 sample=../Audio/New Pad/(2012104 105819)/New Pad-71-127-5KXC.aif
-<group> key=72 pitch_keytrack=1
+<group> key=72 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=467672 loop_mode=loop_sustain loop_start=218760 loop_end=313006 sample=../Audio/New Pad/(2012104 105819)/New Pad-72-127-2XF3.aif
-<group> key=73 pitch_keytrack=1
+<group> key=73 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=457326 loop_mode=loop_sustain loop_start=86961 loop_end=181161 sample=../Audio/New Pad/(2012104 105819)/New Pad-73-127-QP11.aif
-<group> key=74 pitch_keytrack=1
+<group> key=74 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=470299 loop_mode=loop_sustain loop_start=268521 loop_end=362545 sample=../Audio/New Pad/(2012104 105819)/New Pad-74-127-9GM6.aif
-<group> key=75 pitch_keytrack=1
+<group> key=75 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465888 loop_mode=loop_sustain loop_start=126913 loop_end=221062 sample=../Audio/New Pad/(2012104 105819)/New Pad-75-127-XBFE.aif
-<group> key=76 pitch_keytrack=1
+<group> key=76 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466805 loop_mode=loop_sustain loop_start=170944 loop_end=265168 sample=../Audio/New Pad/(2012104 105819)/New Pad-76-127-9E8J.aif
-<group> key=77 pitch_keytrack=1
+<group> key=77 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=449797 loop_mode=loop_sustain loop_start=209336 loop_end=303537 sample=../Audio/New Pad/(2012104 105819)/New Pad-77-127-NRBB.aif
-<group> key=78 pitch_keytrack=1
+<group> key=78 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=412947 loop_mode=loop_sustain loop_start=85179 loop_end=179361 sample=../Audio/New Pad/(2012104 105819)/New Pad-78-127-S9CJ.aif
-<group> key=79 pitch_keytrack=1
+<group> key=79 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=507259 loop_mode=loop_sustain loop_start=106460 loop_end=200648 sample=../Audio/New Pad/(2012104 105819)/New Pad-79-127-YDK3.aif
-<group> key=80 pitch_keytrack=1
+<group> key=80 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=459251 loop_mode=loop_sustain loop_start=270291 loop_end=364545 sample=../Audio/New Pad/(2012104 105819)/New Pad-80-127-1E7U.aif
-<group> key=81 pitch_keytrack=1
+<group> key=81 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=474691 loop_mode=loop_sustain loop_start=242601 loop_end=336839 sample=../Audio/New Pad/(2012104 105819)/New Pad-81-127-JJZY.aif
-<group> key=82 pitch_keytrack=1
+<group> key=82 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=478236 loop_mode=loop_sustain loop_start=251853 loop_end=346054 sample=../Audio/New Pad/(2012104 105819)/New Pad-82-127-IV2Z.aif
-<group> key=83 pitch_keytrack=1
+<group> key=83 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=482749 loop_mode=loop_sustain loop_start=188361 loop_end=282561 sample=../Audio/New Pad/(2012104 105819)/New Pad-83-127-JYZ7.aif
-<group> key=84 pitch_keytrack=1
+<group> key=84 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=452689 loop_mode=loop_sustain loop_start=255307 loop_end=349406 sample=../Audio/New Pad/(2012104 105819)/New Pad-84-127-RFNF.aif
-<group> key=85 pitch_keytrack=1
+<group> key=85 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=486324 loop_mode=loop_sustain loop_start=217044 loop_end=311268 sample=../Audio/New Pad/(2012104 105819)/New Pad-85-127-CH83.aif
-<group> key=86 pitch_keytrack=1
+<group> key=86 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=448201 loop_mode=loop_sustain loop_start=83886 loop_end=178122 sample=../Audio/New Pad/(2012104 105819)/New Pad-86-127-6C2E.aif
-<group> key=87 pitch_keytrack=1
+<group> key=87 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=451990 loop_mode=loop_sustain loop_start=246732 loop_end=340896 sample=../Audio/New Pad/(2012104 105819)/New Pad-87-127-Q1M8.aif
-<group> key=88 pitch_keytrack=1
+<group> key=88 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466095 loop_mode=loop_sustain loop_start=86080 loop_end=180282 sample=../Audio/New Pad/(2012104 105819)/New Pad-88-127-14I9.aif
-<group> key=89 pitch_keytrack=1
+<group> key=89 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=457449 loop_mode=loop_sustain loop_start=125051 loop_end=219196 sample=../Audio/New Pad/(2012104 105819)/New Pad-89-127-UOCY.aif
-<group> key=90 pitch_keytrack=1
+<group> key=90 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=473326 loop_mode=loop_sustain loop_start=199749 loop_end=293902 sample=../Audio/New Pad/(2012104 105819)/New Pad-90-127-1A8B.aif
-<group> key=91 pitch_keytrack=1
+<group> key=91 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=492284 loop_mode=loop_sustain loop_start=103328 loop_end=197577 sample=../Audio/New Pad/(2012104 105819)/New Pad-91-127-2II7.aif
-<group> key=92 pitch_keytrack=1
+<group> key=92 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=462759 loop_mode=loop_sustain loop_start=92242 loop_end=186504 sample=../Audio/New Pad/(2012104 105819)/New Pad-92-127-TNIS.aif
-<group> key=93 pitch_keytrack=1
+<group> key=93 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=458162 loop_mode=loop_sustain loop_start=92191 loop_end=186387 sample=../Audio/New Pad/(2012104 105819)/New Pad-93-127-8BKQ.aif
-<group> key=94 pitch_keytrack=1
+<group> key=94 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=465012 loop_mode=loop_sustain loop_start=226336 loop_end=320622 sample=../Audio/New Pad/(2012104 105819)/New Pad-94-127-FUHM.aif
-<group> key=95 pitch_keytrack=1
+<group> key=95 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=466965 loop_mode=loop_sustain loop_start=247889 loop_end=342080 sample=../Audio/New Pad/(2012104 105819)/New Pad-95-127-3TL4.aif
-<group> key=96 pitch_keytrack=1
+<group> key=96 
 	<region> lovel=000 hivel=127 amp_velcurve_127=1 end=517893 loop_mode=loop_sustain loop_start=160853 loop_end=255065 sample=../Audio/New Pad/(2012104 105819)/New Pad-96-127-8IEI.aif
