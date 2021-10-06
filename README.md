@@ -8,9 +8,7 @@ A classic 80s polysynth. Like it's big brother the Juno 60, but without patch st
 -   [vintagesynth.com](http://www.vintagesynth.com/roland/juno6.php/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/juno6.html)
 
-**This collection requires you to download the audio seperately**
-
-[Download Audio from Dropbox](https://www.dropbox.com/sh/0nx4po1hi4hf2vd/AADV9JRtWxtk0WRDlPpWXCRVa?dl=0)
+**[Download Audio](https://github.com/publicsamples/Roland-Juno-6/releases/tag/1.0)**
 
 # Loading
 
